@@ -1,3 +1,5 @@
+
+
 class NumberGenerator():
     
     def __init__(self) -> None:
