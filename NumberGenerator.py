@@ -1,6 +1,4 @@
-
-
-class NumberGenerator():
+Class NumberGenerator():
     
     def __init__(self) -> None:
         pass
